@@ -1,0 +1,67 @@
+{
+  "top_picks": [
+    {
+      "_id": 1,
+      "title": "Friso Gold Stage 3 Growing up Milk Twin Pack",
+      "price": 20.00,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/460x/i/m/8716200074315_0001_1489999490738.jpg",
+      "description": "For child 1 - 3 years. Formulated milk powder for children. The early years are the most fundamental in preparing your child for the world ahead. Friso Gold 3’s new and improved formula with LocNutri™ technology is formulated to meet the nutritional demands of your growing child. Give him the nutrition he needs with Friso Gold 3 for an easy digestion, thus allowing him to be stronger inside. Our product is also 100% imported from Holland and contain no added sucrose."
+    }, {
+      "_id": 2,
+      "title": "NESCAFE Dolce Gusto Grande Intenso Capsules 16S",
+      "price": 25.00,
+      "image": "https://taw9eelcdn.cachefly.net/media/catalog/product/cache/1/image/519x/9df78eab33525d08d6e5fb8d27136e95/0/4/04-ndg-3000x3000pxl-gi-open.jpg"
+    }, {
+      "_id": 3,
+      "title": "Whisper Skin Love Ultra Slim Day Wing Sanitary Pads 24cm",
+      "price": 15.00,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/150x/i/m/4902430727877_0001_1487658434111.jpg"
+    }, {
+      "_id": 4,
+      "title": "Softlan Lavender Fresh Fabric Conditioner",
+      "price": 16.00,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/150x/i/m/9556031097652_001-Front_1465808095670.jpg"
+    }, {
+      "_id": 5,
+      "title": "Heineken Lager Beer - Case",
+      "price": 46.00,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/150x/i/m/8888017306245_0001_1503381347369.jpg"
+    }, {
+      "_id": 6,
+      "title": "Magiclean Aromatic Lavender Floor Cleaner",
+      "price": 6.00,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/150x/i/m/1_IMG2a.jpg"
+    }, {
+      "_id": 7,
+      "title": "Eggs",
+      "price": 2.50,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/150x/i/m/88850014368030077_1458218748935.jpg"
+    }, {
+      "_id": 8,
+      "title": "Want Want Senbei Rice Crackers",
+      "price": 3.00,
+      "image": "https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/150x/i/m/IMG_7784.JPG"
+    }
+  ],
+  "banners" : [
+    {
+      "image": "https://rm-goldenmedia.imgix.net/4a91f9e2a9a6680e4101a05dca62412a.jpg?auto=format"
+    }, {
+      "image": "https://rm-goldenmedia.imgix.net/669c0e577797c2471cf8d5b5730ef66e.jpg?auto=format"
+    }, {
+      "image": "https://rm-goldenmedia.imgix.net/fe28537d3f3b809387dad2728e90ab2a.jpg?auto=format"
+    }, {
+      "image": "https://rm-goldenmedia.imgix.net/61f99477e02b61787770a73908d17919.jpg?auto=format"
+    }, {
+      "image": "https://rm-goldenmedia.imgix.net/c4e98e860e2a49ff3bc1100e0c61f35c.jpg?auto=format"
+    }, {
+      "image": "https://rm-goldenmedia.imgix.net/c1b67501f598a624cef6f208fa39dade.jpg?auto=format"
+    }, {
+      "image": "https://rm-goldenmedia.imgix.net/a8a0ed0d574e763505af93d0c288fa40.jpg?auto=format"
+    }, {
+      "image" : "https://rm-goldenmedia.imgix.net/571df0270dc38e43c4eddc87e8c1a5ae.jpg?auto=format"
+    }, {
+      "image" : "https://rm-goldenmedia.imgix.net/5a464cd4398dc2680e8c2db3a6e00d41.jpg?auto=format"
+    }
+  ]
+}
